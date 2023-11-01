@@ -9,7 +9,6 @@ The Flight Deals Alert System is a Python application that helps you find and ge
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
